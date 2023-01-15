@@ -1,0 +1,14 @@
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\bin\Debug\박규민_202211415.exe.config
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\bin\Debug\박규민_202211415.exe
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\bin\Debug\박규민_202211415.pdb
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\bin\Debug\Newtonsoft.Json.dll
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\bin\Debug\System.Net.Json.dll
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\obj\Debug\박규민_202211415.csproj.AssemblyReference.cache
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\obj\Debug\박규민_202211415.Form1.resources
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\obj\Debug\박규민_202211415.Properties.Resources.resources
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\obj\Debug\박규민_202211415.csproj.GenerateResource.cache
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\obj\Debug\박규민_202211415.csproj.CoreCompileInputs.cache
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\obj\Debug\박규민_202211415.csproj.CopyComplete
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\obj\Debug\박규민_202211415.exe
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\obj\Debug\박규민_202211415.pdb
+C:\Users\82102\Desktop\박규민_202211415\박규민_202211415\obj\Debug\박규민_202211415.csproj.SuggestedBindingRedirects.cache
